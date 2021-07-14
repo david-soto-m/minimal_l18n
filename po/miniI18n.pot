@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the main package.
+# This file is distributed under the same license as the miniI18n package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: main\n"
+"Project-Id-Version: miniI18n\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-13 00:36+0200\n"
+"POT-Creation-Date: 2021-07-14 02:16+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,17 +17,17 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: main.c:10
+#: main.c:11
 #, c-format
 msgid "Hello\n"
 msgstr ""
 
-#: main.c:11
+#: main.c:12
 #, c-format
-msgid "He\n"
+msgid "Hemoglobin\n"
 msgstr ""
 
-#: main.c:12
+#: main.c:13
 #, c-format
 msgid "Hello World\n"
 msgstr ""

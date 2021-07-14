@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: main\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-13 00:36+0200\n"
+"POT-Creation-Date: 2021-07-14 02:16+0200\n"
 "PO-Revision-Date: 2021-07-13 00:23+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -17,17 +17,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: main.c:10
+#: main.c:11
 #, c-format
 msgid "Hello\n"
-msgstr "Hilgh\n"
-
-#: main.c:11
-#, fuzzy, c-format
-msgid "He\n"
-msgstr "Él\n"
+msgstr "Hola\n"
 
 #: main.c:12
 #, c-format
+msgid "Hemoglobin\n"
+msgstr "Hemoglobina de la güena\n"
+
+#: main.c:13
+#, c-format
 msgid "Hello World\n"
-msgstr "como queso\n"
+msgstr ""
+"Como queso, esta frase no tiene sentido, pero la tengo de todas formas para "
+"poner tildes innecesarias, ratón mamá pensé comí palodú, ñu Valençai\n"

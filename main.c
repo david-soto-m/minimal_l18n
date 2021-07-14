@@ -1,14 +1,15 @@
 #include<stdio.h>
 #include<libintl.h>
 #include<locale.h>
+#include<config.h>
 #define _(String) gettext (String)
 
 int main(int argc, char **argv) {
     setlocale(LC_ALL,"");
-    bindtextdomain("main","./build/po");
-    textdomain("main");
+    bindtextdomain(GETTEXT_PACKAGE,LOCALEDIR);
+    textdomain(GETTEXT_PACKAGE);
     printf(_("Hello\n"));
-    printf(_("He\n"));
+    printf(_("Hemoglobin\n"));
     printf(_("Hello World\n"));
     return 0;
 }
