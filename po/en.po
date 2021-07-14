@@ -1,14 +1,14 @@
-# English translations for main package.
-# Copyright (C) 2021 THE main'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the main package.
+# English translations for miniI18n package.
+# Copyright (C) 2021 THE miniI18n'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the miniI18n package.
 # Automatically generated, 2021.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: main\n"
+"Project-Id-Version: miniI18n\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-14 02:16+0200\n"
-"PO-Revision-Date: 2021-07-14 01:48+0200\n"
+"POT-Creation-Date: 2021-07-14 19:26+0200\n"
+"PO-Revision-Date: 2021-07-14 19:26+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -17,19 +17,23 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: main.c:11
+#: src/main.c:13
+#, c-format
+msgid "Tony Stark\n"
+msgstr "Tony Stark\n"
+
+#: src/printers.c:4
 #, c-format
 msgid "Hello\n"
-msgstr ""
-"Hello, this is a long paragraph, the other tag was being used in order to be "
-"substituted by this long boring-ass paragraph\n"
+msgstr "This is a word I am expoiting in order to shortcut for a longer paragraph\n"
+"Hell, I am even substituting for several sentences over here\n"
 
-#: main.c:12
+#: src/printers.c:8
 #, c-format
 msgid "Hemoglobin\n"
 msgstr "Hemoglobin\n"
 
-#: main.c:13
+#: src/printers.c:12
 #, c-format
 msgid "Hello World\n"
 msgstr "Hello World\n"
